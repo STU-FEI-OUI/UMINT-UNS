@@ -18,9 +18,9 @@ Repozitár materiálov k **druhému bloku** predmetu UMINT: práca v **Python** 
 
 ## Zadania (PDF)
 
-- [Zadanie č. 5](Zadania/umint_zad5.pdf)
-- [Zadanie č. 6](Zadania/umint_zad6.pdf)
-- [Zadanie č. 7](Zadania/umint_zad7.pdf)
+- [Zadanie č. 5](zadania/umint_zad5.pdf)
+- [Zadanie č. 6](zadania/umint_zad6.pdf)
+- [Zadanie č. 7](zadania/umint_zad7.pdf)
 
 ---
 
@@ -32,7 +32,7 @@ Repozitár materiálov k **druhému bloku** predmetu UMINT: práca v **Python** 
 
 Študent sa zoznámi so **spoločnou štruktúrou** skriptov (seed, dáta, model, strata, optimalizátor, epochy, TensorBoard). Vzorové riešenia a demo sú v [`zad5_examples/`](zad5_examples/) - najprv `5_uvod_do_pytorch.ipynb`, potom `5a.ipynb` a `5b.ipynb`. Podrobné porovnanie šablóny vs. 5a/5b je vysvetlené v úvodnom notebooku.
 
-**PDF:** [Zadania/umint_zad5.pdf](Zadania/umint_zad5.pdf)
+**PDF:** [Zadania/umint_zad5.pdf](zadania/umint_zad5.pdf)
 
 </details>
 
@@ -43,7 +43,7 @@ Repozitár materiálov k **druhému bloku** predmetu UMINT: práca v **Python** 
 
 Znenie a požiadavky sú výhradne v PDF súbore. Po doplnení súboru `umint_zad6.pdf` do priečinka `Zadania/` bude odkaz vyššie fungovať v prehliadači na GitHub-e.
 
-**PDF:** [Zadania/umint_zad6.pdf](Zadania/umint_zad6.pdf)
+**PDF:** [Zadania/umint_zad6.pdf](zadania/umint_zad6.pdf)
 
 </details>
 
@@ -52,7 +52,7 @@ Znenie a požiadavky sú výhradne v PDF súbore. Po doplnení súboru `umint_za
 
 ...
 
-**PDF:** [Zadania/umint_zad7.pdf](Zadania/umint_zad7.pdf)
+**PDF:** [Zadania/umint_zad7.pdf](zadania/umint_zad7.pdf)
 
 </details>
 
